@@ -1,5 +1,4 @@
-{
-  "Products": [
+ [
     {
       "name": "Doms",
       "quantity": 12,
@@ -78,4 +77,3 @@
       "id": 11
     }
   ]
-}
